@@ -1,0 +1,493 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+    "title": "Classic Spaghetti Bolognese",
+    "description": "A traditional Italian pasta dish with rich meat sauce.",
+    "category": "Main Course",
+    "ingredients": [
+      "200g spaghetti",
+      "250g minced beef",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "400g canned tomatoes",
+      "2 tbsp tomato paste",
+      "Olive oil",
+      "Salt and pepper",
+      "Fresh basil leaves"
+    ],
+    "instructions": [
+      "Cook spaghetti according to package instructions.",
+      "Heat olive oil in a pan over medium heat.",
+      "Add onion and garlic; sauté until translucent.",
+      "Add minced beef; cook until browned.",
+      "Stir in tomatoes and tomato paste; simmer for 15 minutes.",
+      "Season with salt and pepper.",
+      "Serve sauce over spaghetti and garnish with basil leaves."
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+    "title": "Vegetable Stir-Fry",
+    "description": "A quick and healthy stir-fry with fresh vegetables.",
+    "category": "Vegetarian",
+    "ingredients": [
+      "1 bell pepper, sliced",
+      "1 carrot, julienned",
+      "100g broccoli florets",
+      "100g snap peas",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 clove garlic, minced",
+      "1 tsp grated ginger",
+      "Salt and pepper"
+    ],
+    "instructions": [
+      "Heat sesame oil in a wok over high heat.",
+      "Add garlic and ginger; stir-fry for 30 seconds.",
+      "Add vegetables; stir-fry for 5-7 minutes.",
+      "Add soy sauce; toss to coat.",
+      "Season with salt and pepper.",
+      "Serve hot over steamed rice."
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+    "title": "Chicken Caesar Salad",
+    "description": "A classic Caesar salad topped with grilled chicken.",
+    "category": "Salad",
+    "ingredients": [
+      "2 chicken breasts",
+      "1 head romaine lettuce",
+      "1/2 cup croutons",
+      "1/4 cup grated Parmesan cheese",
+      "Caesar dressing",
+      "Salt and pepper",
+      "Olive oil"
+    ],
+    "instructions": [
+      "Season chicken with salt and pepper; grill until cooked through.",
+      "Chop lettuce and place in a large bowl.",
+      "Slice grilled chicken and add to the lettuce.",
+      "Add croutons and Parmesan cheese.",
+      "Drizzle with Caesar dressing; toss to combine.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+    "title": "Banana Smoothie",
+    "description": "A creamy and healthy banana smoothie.",
+    "category": "Beverage",
+    "ingredients": [
+      "2 ripe bananas",
+      "1 cup milk (or almond milk)",
+      "1/2 cup yogurt",
+      "1 tbsp honey",
+      "1/2 tsp vanilla extract",
+      "Ice cubes (optional)"
+    ],
+    "instructions": [
+      "Place all ingredients in a blender.",
+      "Blend until smooth.",
+      "Pour into glasses and serve immediately."
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+    "title": "Classic Cheeseburger",
+    "description": "A juicy beef burger with cheese and classic toppings.",
+    "category": "Main Course",
+    "ingredients": [
+      "500g ground beef",
+      "4 slices cheddar cheese",
+      "4 burger buns",
+      "Lettuce leaves",
+      "Tomato slices",
+      "Onion slices",
+      "Ketchup and mustard",
+      "Salt and pepper",
+      "Oil for grilling"
+    ],
+    "instructions": [
+      "Season ground beef with salt and pepper; form into 4 patties.",
+      "Heat oil in a pan or grill over medium-high heat.",
+      "Cook patties for 4-5 minutes per side or until desired doneness.",
+      "Place a slice of cheese on each patty; let melt.",
+      "Assemble burgers with buns, patties, and toppings.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+    "title": "Greek Salad",
+    "description": "A refreshing salad with cucumbers, tomatoes, and feta cheese.",
+    "category": "Salad",
+    "ingredients": [
+      "2 cucumbers, chopped",
+      "4 tomatoes, chopped",
+      "1 red onion, sliced",
+      "1/2 cup Kalamata olives",
+      "200g feta cheese, cubed",
+      "2 tbsp olive oil",
+      "1 tbsp red wine vinegar",
+      "1 tsp dried oregano",
+      "Salt and pepper"
+    ],
+    "instructions": [
+      "In a large bowl, combine cucumbers, tomatoes, onion, and olives.",
+      "In a small bowl, whisk together olive oil, vinegar, oregano, salt, and pepper.",
+      "Pour dressing over the salad; toss to combine.",
+      "Add feta cheese on top.",
+      "Serve chilled."
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+    "title": "Chocolate Chip Cookies",
+    "description": "Classic homemade cookies loaded with chocolate chips.",
+    "category": "Desserts",
+    "ingredients": [
+      "1 cup butter, softened",
+      "1 cup white sugar",
+      "1 cup brown sugar",
+      "2 eggs",
+      "2 tsp vanilla extract",
+      "3 cups all-purpose flour",
+      "1 tsp baking soda",
+      "1/2 tsp salt",
+      "2 cups chocolate chips"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C).",
+      "Cream together butter and sugars.",
+      "Beat in eggs and vanilla.",
+      "In a separate bowl, combine flour, baking soda, and salt.",
+      "Gradually mix dry ingredients into wet ingredients.",
+      "Stir in chocolate chips.",
+      "Drop by spoonfuls onto baking sheets.",
+      "Bake for 10-12 minutes or until golden brown.",
+      "Cool on wire racks."
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+    "title": "Vegan Lentil Soup",
+    "description": "A hearty and nutritious lentil soup.",
+    "category": "Vegan",
+    "ingredients": [
+      "1 cup lentils, rinsed",
+      "1 onion, chopped",
+      "2 carrots, chopped",
+      "2 celery stalks, chopped",
+      "2 cloves garlic, minced",
+      "6 cups vegetable broth",
+      "1 tsp cumin",
+      "1 bay leaf",
+      "Salt and pepper",
+      "Olive oil"
+    ],
+    "instructions": [
+      "Heat olive oil in a large pot over medium heat.",
+      "Add onion, carrots, celery; sauté until softened.",
+      "Add garlic; cook for 1 minute.",
+      "Add lentils, broth, cumin, bay leaf, salt, and pepper.",
+      "Bring to a boil; reduce heat and simmer for 30-40 minutes.",
+      "Remove bay leaf; serve hot."
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+    "title": "Pancakes",
+    "description": "Fluffy homemade pancakes perfect for breakfast.",
+    "category": "Breakfast",
+    "ingredients": [
+      "1 1/2 cups all-purpose flour",
+      "3 1/2 tsp baking powder",
+      "1 tsp salt",
+      "1 tbsp white sugar",
+      "1 1/4 cups milk",
+      "1 egg",
+      "3 tbsp butter, melted"
+    ],
+    "instructions": [
+      "In a bowl, sift together flour, baking powder, salt, and sugar.",
+      "Make a well in the center; pour in milk, egg, and melted butter.",
+      "Mix until smooth.",
+      "Heat a lightly oiled griddle over medium-high heat.",
+      "Pour batter onto the griddle; cook until golden brown on both sides.",
+      "Serve hot with syrup."
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://via.placeholder.com/400x300",
+    "title": "Caprese Salad",
+    "description": "A simple Italian salad with tomatoes, mozzarella, and basil.",
+    "category": "Vegetarian",
+    "ingredients": [
+      "4 tomatoes, sliced",
+      "250g fresh mozzarella cheese, sliced",
+      "Fresh basil leaves",
+      "2 tbsp olive oil",
+      "Balsamic vinegar (optional)",
+      "Salt and pepper"
+    ],
+    "instructions": [
+      "Arrange tomato and mozzarella slices on a platter, alternating between them.",
+      "Tuck basil leaves between slices.",
+      "Drizzle with olive oil and balsamic vinegar if using.",
+      "Season with salt and pepper.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://via.placeholder.com/400x300",
+    "title": "Grilled Salmon",
+    "description": "Simple grilled salmon with lemon and herbs.",
+    "category": "Main Course",
+    "ingredients": [
+      "4 salmon fillets",
+      "2 lemons, sliced",
+      "2 tbsp olive oil",
+      "Fresh dill or parsley",
+      "Salt and pepper"
+    ],
+    "instructions": [
+      "Preheat grill to medium heat.",
+      "Brush salmon with olive oil; season with salt and pepper.",
+      "Place lemon slices and herbs on top of salmon.",
+      "Grill for 6-8 minutes per side or until cooked through.",
+      "Serve with additional lemon wedges."
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://via.placeholder.com/400x300",
+    "title": "Strawberry Smoothie",
+    "description": "A refreshing strawberry smoothie.",
+    "category": "Beverage",
+    "ingredients": [
+      "1 cup fresh strawberries",
+      "1 banana",
+      "1 cup orange juice",
+      "1/2 cup yogurt",
+      "Ice cubes"
+    ],
+    "instructions": [
+      "Combine all ingredients in a blender.",
+      "Blend until smooth.",
+      "Pour into glasses and enjoy."
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://via.placeholder.com/400x300",
+    "title": "Quinoa Salad",
+    "description": "A healthy quinoa salad with vegetables and a lemon dressing.",
+    "category": "Vegan",
+    "ingredients": [
+      "1 cup quinoa",
+      "2 cups water",
+      "1 cucumber, diced",
+      "1 red bell pepper, diced",
+      "1/2 red onion, diced",
+      "1/4 cup chopped parsley",
+      "2 tbsp olive oil",
+      "Juice of 1 lemon",
+      "Salt and pepper"
+    ],
+    "instructions": [
+      "Rinse quinoa under cold water.",
+      "In a saucepan, combine quinoa and water; bring to a boil.",
+      "Reduce heat; simmer for 15 minutes or until water is absorbed.",
+      "Let quinoa cool.",
+      "In a large bowl, combine quinoa, vegetables, and parsley.",
+      "In a small bowl, whisk together olive oil, lemon juice, salt, and pepper.",
+      "Pour dressing over salad; toss to combine.",
+      "Serve chilled or at room temperature."
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://via.placeholder.com/400x300",
+    "title": "French Toast",
+    "description": "Classic French toast with a hint of cinnamon.",
+    "category": "Breakfast",
+    "ingredients": [
+      "4 slices of bread",
+      "2 eggs",
+      "1/2 cup milk",
+      "1 tsp vanilla extract",
+      "1/2 tsp ground cinnamon",
+      "Butter for frying",
+      "Maple syrup (optional)"
+    ],
+    "instructions": [
+      "In a shallow bowl, whisk together eggs, milk, vanilla, and cinnamon.",
+      "Dip bread slices into the mixture, coating both sides.",
+      "Heat butter in a skillet over medium heat.",
+      "Cook bread slices until golden brown on both sides.",
+      "Serve hot with maple syrup if desired."
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://via.placeholder.com/400x300",
+    "title": "Chicken Curry",
+    "description": "A flavorful chicken curry with spices and coconut milk.",
+    "category": "Main Course",
+    "ingredients": [
+      "500g chicken pieces",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 tbsp curry powder",
+      "1 tsp turmeric",
+      "1 can coconut milk",
+      "2 tomatoes, chopped",
+      "Salt and pepper",
+      "Oil for cooking",
+      "Fresh cilantro for garnish"
+    ],
+    "instructions": [
+      "Heat oil in a pot over medium heat.",
+      "Add onion and garlic; sauté until soft.",
+      "Add curry powder and turmeric; cook for 1 minute.",
+      "Add chicken; cook until browned.",
+      "Add tomatoes and coconut milk.",
+      "Simmer for 20-25 minutes until chicken is cooked through.",
+      "Season with salt and pepper.",
+      "Garnish with cilantro and serve with rice."
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://via.placeholder.com/400x300",
+    "title": "Guacamole",
+    "description": "A classic avocado dip with lime and cilantro.",
+    "category": "Appetizer",
+    "ingredients": [
+      "3 ripe avocados",
+      "1 lime, juiced",
+      "1/2 red onion, diced",
+      "2 tomatoes, diced",
+      "1 clove garlic, minced",
+      "2 tbsp chopped cilantro",
+      "Salt and pepper"
+    ],
+    "instructions": [
+      "Mash avocados in a bowl.",
+      "Add lime juice, onion, tomatoes, garlic, and cilantro.",
+      "Mix well; season with salt and pepper.",
+      "Serve with tortilla chips."
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://via.placeholder.com/400x300",
+    "title": "Berry Parfait",
+    "description": "A layered dessert with yogurt, granola, and fresh berries.",
+    "category": "Desserts",
+    "ingredients": [
+      "2 cups vanilla yogurt",
+      "1 cup granola",
+      "1 cup mixed berries",
+      "Honey (optional)"
+    ],
+    "instructions": [
+      "In serving glasses, layer yogurt, granola, and berries.",
+      "Repeat layers as desired.",
+      "Drizzle with honey if using.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://via.placeholder.com/400x300",
+    "title": "Garlic Bread",
+    "description": "Crispy bread slices with garlic butter.",
+    "category": "Appetizer",
+    "ingredients": [
+      "1 baguette",
+      "1/2 cup butter, softened",
+      "3 cloves garlic, minced",
+      "2 tbsp chopped parsley",
+      "Salt"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C).",
+      "Slice baguette diagonally.",
+      "In a bowl, mix butter, garlic, parsley, and a pinch of salt.",
+      "Spread garlic butter on each bread slice.",
+      "Place on a baking sheet; bake for 10-12 minutes until golden.",
+      "Serve warm."
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://via.placeholder.com/400x300",
+    "title": "Tomato Soup",
+    "description": "A warm and comforting tomato soup.",
+    "category": "Vegan",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "800g canned crushed tomatoes",
+      "2 cups vegetable broth",
+      "1 tsp sugar",
+      "Salt and pepper",
+      "Basil leaves for garnish"
+    ],
+    "instructions": [
+      "Heat oil in a pot over medium heat.",
+      "Add onion and garlic; sauté until soft.",
+      "Add tomatoes, broth, and sugar.",
+      "Bring to a boil; reduce heat and simmer for 15 minutes.",
+      "Blend soup until smooth.",
+      "Season with salt and pepper.",
+      "Garnish with basil leaves and serve."
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://via.placeholder.com/400x300",
+    "title": "Mushroom Risotto",
+    "description": "Creamy risotto with mushrooms and Parmesan cheese.",
+    "category": "Vegetarian",
+    "ingredients": [
+      "1 cup Arborio rice",
+      "5 cups vegetable broth, warmed",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "250g mushrooms, sliced",
+      "1/2 cup white wine (optional)",
+      "1/2 cup grated Parmesan cheese",
+      "2 tbsp butter",
+      "2 tbsp olive oil",
+      "Salt and pepper",
+      "Fresh parsley for garnish"
+    ],
+    "instructions": [
+      "Heat olive oil and 1 tbsp butter in a pan.",
+      "Add onion and garlic; sauté until translucent.",
+      "Add mushrooms; cook until soft.",
+      "Add rice; stir to coat grains.",
+      "Pour in wine; cook until absorbed.",
+      "Add broth one ladle at a time, stirring constantly until absorbed before adding more.",
+      "Continue until rice is creamy and al dente.",
+      "Stir in remaining butter and Parmesan cheese.",
+      "Season with salt and pepper.",
+      "Garnish with parsley and serve."
+    ]
+  }
+]

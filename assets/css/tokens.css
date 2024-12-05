@@ -1,0 +1,8 @@
+:root {
+    --color-primary: #3b82f6; /* Tailwind's blue-500 */
+    --color-secondary: #ef4444; /* Tailwind's red-500 */
+    --spacing-sm: 0.5rem;
+    --spacing-md: 1rem;
+    --spacing-lg: 1.5rem;
+  }
+  
