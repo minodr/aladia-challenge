@@ -75,7 +75,7 @@ This project is a Recipe Application built using **NuxtJS** and **Storybook**. T
 
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/minodr/aladia-challenge.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -131,10 +131,6 @@ Access Storybook at `http://localhost:6006`.
 
 - **Design Tokens:** Implemented using Tailwind CSS for consistent spacing, colors, and typography.
 - **Atomic Design:** Ensures scalable and maintainable component architecture.
-
-## Video Presentation
-
-- Video Link: [Your Video Link Here]
 
 ## Additional Documentation
 
